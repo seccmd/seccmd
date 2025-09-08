@@ -47,7 +47,7 @@ categories: 攻防兼备企业安全实践
 
 ## 1.拓扑结构 
 
-![](1657955239098-71eaf9a0-7faa-477b-a703-14d905f9ba54.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955239098-71eaf9a0-7faa-477b-a703-14d905f9ba54.webp)
 
 
 
@@ -57,11 +57,11 @@ categories: 攻防兼备企业安全实践
 
 白帽子通过浏览器访问监控机，输入账号密码进行登录
 
-![](1657955239975-2d3d2494-0d81-4eff-86d7-7fb74d8bf2d5.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955239975-2d3d2494-0d81-4eff-86d7-7fb74d8bf2d5.webp)
 
 登录成功后，自动跳转到操作机，监控机记录白帽子行为，无感知无法篡改
 
-![](1657955241316-4a34f53e-393e-4ed7-9394-91bbae316840.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955241316-4a34f53e-393e-4ed7-9394-91bbae316840.webp)
 
 
 
@@ -71,11 +71,11 @@ categories: 攻防兼备企业安全实践
 
 2. 在监控机手动配置开通用户 ID 的使用权限，绑定云主机，分配密码
 
-![](1657955241264-2d12241f-b2e7-4441-a5dd-eb40b6d5affe.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955241264-2d12241f-b2e7-4441-a5dd-eb40b6d5affe.webp)
 
 3. 手动创建相应数量的操作机（云主机），分配操作系统、内存、CPU 和 IP 地址
 
-![](1657955240040-ad448be4-91ae-43d0-a7bf-a37d6ecce8c0.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955240040-ad448be4-91ae-43d0-a7bf-a37d6ecce8c0.webp)
 
 
 
@@ -83,18 +83,18 @@ categories: 攻防兼备企业安全实践
 
 监控机记录下，白帽子的全部操作行为，操作监控记录文件，如下：
 
-![](1657955241541-f8c0ce68-5d10-48fe-a7d6-aeeef3c66c90.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955241541-f8c0ce68-5d10-48fe-a7d6-aeeef3c66c90.webp)
 
 
 
 Linux 回放：
 
-![](1657955244099-a0512ee3-a60f-4b57-8476-03c008f1b115.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955244099-a0512ee3-a60f-4b57-8476-03c008f1b115.webp)
 
 
 Windows 回放：
 
-![](1657955242511-670cb65b-e207-4752-acf5-8339b3738687.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955242511-670cb65b-e207-4752-acf5-8339b3738687.webp)
 
 
 
@@ -131,9 +131,9 @@ Centos 6.5 2 核 4G 内存 5Mbps 独立 IP ￥20/天/台
 
 白帽子通过浏览器访问测试机，输入账号密码进行登录
 
-![](1657955243843-ee416430-bcef-45ca-9e9c-8a9efdcae8b6.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955243843-ee416430-bcef-45ca-9e9c-8a9efdcae8b6.webp)
 
 登录成功后，自动跳转到测试机，开始对目标网站进行安全测试。
 
-![](1657955244953-4f958aea-de78-4dc2-9e3f-9f8dae72d644.webp)
+![](./white-hat-penetration-behavior-monitoring-solution/1657955244953-4f958aea-de78-4dc2-9e3f-9f8dae72d644.webp)
 

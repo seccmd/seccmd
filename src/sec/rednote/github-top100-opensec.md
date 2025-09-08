@@ -11,8 +11,8 @@ tags:
 
 我是数字安全极客，持续分享安全干货，点点关注不迷路！
 
-![](Open-Source-Security-Index_split_1.png)
-![](Open-Source-Security-Index_split_2.png)
-![](Open-Source-Security-Index_split_3.png)
-![](Open-Source-Security-Index_split_4.png)
-![](Open-Source-Security-Index_split_5.png)
+![](./github-top100-opensec/Open-Source-Security-Index_split_1.png)
+![](./github-top100-opensec/Open-Source-Security-Index_split_2.png)
+![](./github-top100-opensec/Open-Source-Security-Index_split_3.png)
+![](./github-top100-opensec/Open-Source-Security-Index_split_4.png)
+![](./github-top100-opensec/Open-Source-Security-Index_split_5.png)

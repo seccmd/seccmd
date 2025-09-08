@@ -35,7 +35,7 @@ tags:
 
 ### 三、风险分布 
 
-![](1675402087107-c30fd780-d16d-4910-b261-680379ed3e76.webp)
+![](./major-security-risk-assessment-of-cloud-computing-services/1675402087107-c30fd780-d16d-4910-b261-680379ed3e76.webp)
 
 
 
@@ -157,7 +157,7 @@ CNCERT 的抽样监测结果显示：
 
 
 
-![](1657955101729-e9aaa8c6-9d60-479a-b7fd-6d53d43b6945.webp)
+![](./major-security-risk-assessment-of-cloud-computing-services/1657955101729-e9aaa8c6-9d60-479a-b7fd-6d53d43b6945.webp)
 
 
 

@@ -38,7 +38,7 @@ categories: 攻防兼备企业安全实践
 
 ## 信息安全管理体系控制域 
 
-![](1675492120499-bc241a36-ff7c-47fc-a171-caf4de062537.webp)
+![](./information-security-management-system/1675492120499-bc241a36-ff7c-47fc-a171-caf4de062537.webp)
 
 
 

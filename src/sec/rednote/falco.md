@@ -207,12 +207,12 @@ run syscall --loop
 
 默认配置：http://192.168.x.x:2802/ admin admin
 
-![image-默认配置](image-20230716173322046.png)
+![image-默认配置](./falco/image-20230716173322046.png)
 
 规则
 
-![image-规则](image-20230716173407947.png)
+![image-规则](./falco/image-20230716173407947.png)
 
 日志
 
-![image-日志](image-20230716173538477.png)
+![image-日志](./falco/image-20230716173538477.png)

@@ -17,20 +17,20 @@ tags:
 
 研发团队负责开发交付、运维团队负责可用性保障、安全团队负责安全保障的方式完成IT业务的管理，导致安全、开发和运维部门业务目标相互独立、割裂，有时甚至是对立和冲突，最终导致安全风险的闭环管理时间周期长、成本高。
 
-![DevOps安全现状](1657956893122-992c04aa-246e-4e6c-8aed-4b23bb45ac03.webp)
+![DevOps安全现状](./devsecops-security-solution/1657956893122-992c04aa-246e-4e6c-8aed-4b23bb45ac03.webp)
 
 ## 一、DevOps项目中的SDL 
 
 在DevOps项目持久交付和快速迭代中，SDL因为节奏缓慢很难被业务部门接受。安全团队需要提供可持续集成的安全工具，不断优化安全流程。
 
-![DevOps项目中的SDL问题](1657956893298-2fd21bab-146e-41e3-974b-ba0dadcd0b3a.webp)
+![DevOps项目中的SDL问题](./devsecops-security-solution/1657956893298-2fd21bab-146e-41e3-974b-ba0dadcd0b3a.webp)
 
 
 ## 二、DevSecOps理念 
 
 DevSecOps 是一种结合了开发 (Dev)、安全 (Sec) 和运维 (Ops) 的安全理念，旨在在整个软件开发生命周期中提高安全性。DevSecOps 的核心思想是将安全考虑融入整个软件开发过程中，在软件开发的早期阶段就要考虑安全问题，从而提高软件的安全性。
 
-![DevSecOps理念](1657956893428-5a82518a-1a84-47cd-92a7-d51e037aca21.webp)
+![DevSecOps理念](./devsecops-security-solution/1657956893428-5a82518a-1a84-47cd-92a7-d51e037aca21.webp)
 
 
 ## 三、DevSecOps安全技术流程 
@@ -39,7 +39,7 @@ DevSecOps，一种全新的安全理念与模式，从DecOps的概念延伸和�
 
 DevSecOps 主要通过自动化安全测试，安全评估，威胁建模和安全文化来保证在整个软件生命周期中提高安全性，并减少漏洞数量，保证应用程序和基础架构的安全性，并加快产品的发布速度。
 
-![DevSecOps安全技术流程](1657956893830-bc88f2ff-abaa-46b4-ad76-c60bec60596c.webp)
+![DevSecOps安全技术流程](./devsecops-security-solution/1657956893830-bc88f2ff-abaa-46b4-ad76-c60bec60596c.webp)
 
 
 ## 四、威胁建模和安全防御原则 

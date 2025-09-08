@@ -23,43 +23,43 @@ categories: 攻防兼备企业安全实践
 
 **【网络安全纵深防御】**
 
--  post_link secbook/defense-in-depth-security-solution 
--  post_link secbook/security-incident-response 
+-   secbook/defense-in-depth-security-solution 
+-   secbook/security-incident-response 
 
 **【安全合规及风险管理】**
 
--  post_link secbook/cybersecurity-laws 
--  post_link secbook/information-security-management-system 
--  post_link secbook/information-security-awareness-training 
+-   secbook/cybersecurity-laws 
+-   secbook/information-security-management-system 
+-   secbook/information-security-awareness-training 
 
 **【数据安全与隐私保护】**
 
--  post_link secbook/data-security-protection-system 
--  post_link secbook/personal-information-protection 
+-   secbook/data-security-protection-system 
+-   secbook/personal-information-protection 
 
 **【安全开发生命周期】**
 
--  post_link secbook/devsecops-security-solution 
--  post_link secbook/software-code-vulnerability-automated-repair-technology 
+-   secbook/devsecops-security-solution 
+-   secbook/software-code-vulnerability-automated-repair-technology 
 
 **【终端与身份安全】**
 
--  post_link secbook/terminal-and-remote-office-security 
--  post_link secbook/zero-trust-security-architecture 
+-   secbook/terminal-and-remote-office-security 
+-   secbook/zero-trust-security-architecture 
 
 **【云数据中心安全】**
 
--  post_link secbook/cloud-security-framework-and-virtualization-technology 
--  post_link secbook/major-security-risk-assessment-of-cloud-computing-services 
--  post_link secbook/container-security-risks-and-best-practices 
+-   secbook/cloud-security-framework-and-virtualization-technology 
+-   secbook/major-security-risk-assessment-of-cloud-computing-services 
+-   secbook/container-security-risks-and-best-practices 
 
 **【安全攻防实战演练】**
 
--  post_link secbook/red-blue-attack-and-defense-practice 
--  post_link secbook/phishing-attack-drill-plan 
--  post_link secbook/white-hat-penetration-behavior-monitoring-solution 
+-   secbook/red-blue-attack-and-defense-practice 
+-   secbook/phishing-attack-drill-plan 
+-   secbook/white-hat-penetration-behavior-monitoring-solution 
 
 **【移动与物联网安全】**
 
--  post_link secbook/mobile-and-payment-security 
--  post_link secbook/iot-security-architecture-design-solution 
+-   secbook/mobile-and-payment-security 
+-   secbook/iot-security-architecture-design-solution 

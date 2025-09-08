@@ -35,7 +35,7 @@ Google：将所有的计算和应用放置在“云”中，设备终端不需�
 
 
 
-![](1657955371270-4eade6b7-5280-4a9f-a18a-1f3551f79637.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955371270-4eade6b7-5280-4a9f-a18a-1f3551f79637.webp)
 
 
 
@@ -45,7 +45,7 @@ Google：将所有的计算和应用放置在“云”中，设备终端不需�
 
 
 
-![](1657955368629-ef42aced-69c5-4fbd-849c-98a99949593d.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955368629-ef42aced-69c5-4fbd-849c-98a99949593d.webp)
 
 
 
@@ -57,7 +57,7 @@ Google：将所有的计算和应用放置在“云”中，设备终端不需�
 
 
 
-![](1657955371296-4ffb146f-3a71-44da-9912-96f5214eac0d.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955371296-4ffb146f-3a71-44da-9912-96f5214eac0d.webp)
 
 
 
@@ -101,13 +101,13 @@ Google：将所有的计算和应用放置在“云”中，设备终端不需�
 
 
 
-![](1657955365674-173b2d7f-5a84-41a6-b93c-a6279dc94396.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955365674-173b2d7f-5a84-41a6-b93c-a6279dc94396.webp)
 
 
 
 
 
-![](1657955367463-94ba1c01-a4b6-4fc1-99dd-0dca9ef18d1c.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955367463-94ba1c01-a4b6-4fc1-99dd-0dca9ef18d1c.webp)
 
 
 
@@ -121,7 +121,7 @@ Google：将所有的计算和应用放置在“云”中，设备终端不需�
 
 
 
-![](1657955371134-c0f8d48f-8ef8-4ae3-82c0-e65e39ed3b55.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955371134-c0f8d48f-8ef8-4ae3-82c0-e65e39ed3b55.webp)
 
 
 
@@ -131,13 +131,13 @@ Google：将所有的计算和应用放置在“云”中，设备终端不需�
 
 
 
-![](1657955369900-49160cba-0101-4e7d-9021-7b2c8daecd2a.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955369900-49160cba-0101-4e7d-9021-7b2c8daecd2a.webp)
 
 
 
 
 
-![](1657955370875-1baae063-4902-4664-84dd-92da334735b7.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955370875-1baae063-4902-4664-84dd-92da334735b7.webp)
 
 
 
@@ -149,7 +149,7 @@ Google：将所有的计算和应用放置在“云”中，设备终端不需�
 
 
 
-![](1657955374610-06e1a546-9137-4ef2-8b51-bdaa4316670f.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955374610-06e1a546-9137-4ef2-8b51-bdaa4316670f.webp)
 
 
 
@@ -161,7 +161,7 @@ CSA CCM（Cloud Control Matrix，云控制矩阵）提供了评估云提供商�
 
 
 
-![](1657955376641-46f07d43-49b4-4423-8465-2a95e6918068.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955376641-46f07d43-49b4-4423-8465-2a95e6918068.webp)
 
 
 
@@ -189,7 +189,7 @@ CSA CCM（Cloud Control Matrix，云控制矩阵）提供了评估云提供商�
 
 
 
-![](1657955373210-a30e13ac-3204-48f1-9768-edaf24295fa5.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955373210-a30e13ac-3204-48f1-9768-edaf24295fa5.webp)
 
 
 
@@ -215,7 +215,7 @@ VMCS （Virtual-Machine control structure)
 
 
 
-![](1657955375338-012cc914-913a-48a3-9c12-8124e70dcdf4.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955375338-012cc914-913a-48a3-9c12-8124e70dcdf4.webp)
 
 
 
@@ -239,7 +239,7 @@ VNI（VXLAN Network Identifier，VXLAN 网络标识符）
 
 
 
-![](1657955375524-f2805806-4aad-4e1d-9313-cefe191a313f.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955375524-f2805806-4aad-4e1d-9313-cefe191a313f.webp)
 
 
 
@@ -255,7 +255,7 @@ VXLAN 在 VTEP 间建立隧道
 
 
 
-![](1657955376646-de7d9a73-6b37-4493-aaf9-b10daebb62f2.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955376646-de7d9a73-6b37-4493-aaf9-b10daebb62f2.webp)
 
 
 
@@ -265,7 +265,7 @@ VXLAN 报文格式
 
 
 
-![](1657955377198-5c03f512-d535-4b5f-becc-f7dc61fec343.webp)
+![](./cloud-security-framework-and-virtualization-technology/1657955377198-5c03f512-d535-4b5f-becc-f7dc61fec343.webp)
 
 
 

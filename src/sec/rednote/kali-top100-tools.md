@@ -24,9 +24,8 @@ tags:
 - #Kali #网络安全 #渗透测试 #黑客工具 #漏洞扫描 #密码破解 #社会工程学
 
 
-![](Kali-Tools-Kali-Linux-Tools_0.png)
-![](Kali-Tools-Kali-Linux-Tools_split_1.png)
-![](Kali-Tools-Kali-Linux-Tools_split_2.png)
-![](Kali-Tools-Kali-Linux-Tools_split_3.png)
-![](Kali-Tools-Kali-Linux-Tools_split_4.png)
-![](Kali-Tools-Kali-Linux-Tools_split_5.png)
+![](./kali-top100-tools/Kali-Tools-Kali-Linux-Tools_split_1.png)
+![](./kali-top100-tools/Kali-Tools-Kali-Linux-Tools_split_2.png)
+![](./kali-top100-tools/Kali-Tools-Kali-Linux-Tools_split_3.png)
+![](./kali-top100-tools/Kali-Tools-Kali-Linux-Tools_split_4.png)
+![](./kali-top100-tools/Kali-Tools-Kali-Linux-Tools_split_5.png)
