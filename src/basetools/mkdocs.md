@@ -66,14 +66,8 @@ vi base.html
 
 在 base.html 文件中找到 <head> 或 <body> 标签的位置，然后插入 Google AdSense 代码。
 
-建议将 Google AdSense 脚本代码放在 {% block site_meta %} 块内合适的位置。
+建议将 Google AdSense 脚本代码放在  block site_meta  块内合适的位置。
 
-{% block site_meta %}
-  <!-- 之前的 meta 标签内容 -->
-  <!-- Google AdSense Code -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxx"
-    crossorigin="anonymous"></script>
-{% endblock %}
 
 3. 重新构建并部署
 

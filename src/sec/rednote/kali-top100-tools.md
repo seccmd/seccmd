@@ -23,11 +23,10 @@ tags:
 - Social Engineer Toolkit（SET）：专为社会工程学攻击设计的框架，提供多种伪装和钓鱼攻击模块，可用于测试人员的安全意识和训练。
 - #Kali #网络安全 #渗透测试 #黑客工具 #漏洞扫描 #密码破解 #社会工程学
 
-{% swiper effect:cards %}
+
 ![](Kali-Tools-Kali-Linux-Tools_0.png)
 ![](Kali-Tools-Kali-Linux-Tools_split_1.png)
 ![](Kali-Tools-Kali-Linux-Tools_split_2.png)
 ![](Kali-Tools-Kali-Linux-Tools_split_3.png)
 ![](Kali-Tools-Kali-Linux-Tools_split_4.png)
 ![](Kali-Tools-Kali-Linux-Tools_split_5.png)
-{% endswiper %}

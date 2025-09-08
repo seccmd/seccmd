@@ -9,10 +9,6 @@ tags:
   - HackTool
 ---
 
-{% ablock 我是数字安全极客，持续分享安全干货，点点关注不迷路！ color:warning %}
-欢迎安全爱好者，加好友交流 微信：SecCMD | [Twiter](https://twitter.com/sec_cmd) | [知乎](https://www.zhihu.com/people/mlsec) | [GitHub](https://github.com/seccmd/)  
-{% endablock %}
-
 亲测收集整理！在安全应急响应中常用的操作命令。能够帮助工程师快速响应进行应急操作处置，帮助企业公司减少安全损失。在安全应急响应过程中需要使用系统命令进行止损和溯源网络攻击源头，但是命令太多容易忘记，上网现查又慢又累，不能快速阻止攻击，可能导致个人和企业的严重损失。
 
 ## Linux 开机启动

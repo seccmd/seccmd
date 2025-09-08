@@ -9,9 +9,6 @@ tags:
   - HackTool
 ---
 
-{% ablock 我是数字安全极客，持续分享安全干货，点点关注不迷路！ color:warning %}
-欢迎安全爱好者，加好友交流 微信：SecCMD | [Twiter](https://twitter.com/sec_cmd) | [知乎](https://www.zhihu.com/people/mlsec) | [GitHub](https://github.com/seccmd/)  
-{% endablock %}
 
 亲测收集整理！在安全应急响应中常用的操作命令。能够帮助工程师快速响应进行应急操作处置，帮助企业公司减少安全损失。在安全应急响应过程中需要使用系统命令进行止损和溯源网络攻击源头，但是命令太多容易忘记，上网现查又慢又累，不能快速阻止攻击，可能导致个人和企业的严重损失。
 
@@ -23,7 +20,7 @@ tags:
 
 注意事项：需要联系系统管理员确认启动项是否合法，防止错误禁用和删除了正常的合法启动项。
 
-{% tabs %}
+
 
 <!-- tab Powershell 命令行 -->
 
@@ -53,8 +50,6 @@ reg query HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
 wmic startup get caption,command
 ```
 
-{% endtabs %}
-
 
 ## Windows 防火墙
 
@@ -64,7 +59,7 @@ wmic startup get caption,command
 
 注意事项：慎重操作防火墙拦截规则，防止错误防火墙规则导致网络完全中断。
 
-{% tabs %}
+
 <!-- tab Powershell 命令行 -->
 
 ``` powershell
@@ -117,7 +112,7 @@ netpowershell advfirewall set allprofiles state on
 # 关闭防火墙 :
 netpowershell advfirewall set allprofiles state off
 ```
-{% endtabs %}
+
 
 
 ## Windows 系统日志
@@ -129,7 +124,7 @@ netpowershell advfirewall set allprofiles state off
 注意事项：确认日志时间是否正常，确认日志是否被删除或伪造。
 
 
-{% tabs %}
+
 
 <!-- tab Powershell 命令行 -->
 
@@ -158,7 +153,7 @@ Get-EventLog Application -After (Get-Date).AddHours(-2) | Format-Table -AutoSize
 # GUI 日志查看器 :
 eventvwr.msc
 ```
-{% endtabs %}
+
 
 
 ## Windows 网络连接
@@ -169,7 +164,7 @@ eventvwr.msc
 
 注意事项：在大流量并发的服务器上，排查网络连接可能对性能会造成较严重影响。
 
-{% tabs %}
+
 <!-- tab Powershell 命令行 -->
 
 ``` powershell
@@ -189,7 +184,7 @@ Get-NetTCPConnection -LocalAddress 192.168.0.100 `
 netstat -ano
 ```
 
-{% endtabs %}
+
 
 
 
@@ -203,7 +198,7 @@ netstat -ano
 注意事项：需要联系管理员确认进程服务是否为重要业务，防止错误关闭和删除了重要业务的进程服务。
 
 
-{% tabs %}
+
 
 <!-- tab Powershell 命令行 -->
 
@@ -226,7 +221,7 @@ taskkill.exe /f /pid <PID>
 # WMIC 查看全部进程 :
 wmic process get name,parentprocessid,processid
 ```	
-{% endtabs %}
+
 
 
 
@@ -238,7 +233,7 @@ wmic process get name,parentprocessid,processid
 典型场景：在应急响应过程中，排查发现可疑系统进程服务，应即时关闭恶意进程或者删除恶意服务，防止被持续控制。
 
 注意事项：需要联系管理员确认进程服务是否为重要业务，防止错误关闭和删除了重要业务的进程服务。
-{% tabs %}
+
 <!-- tab Powershell 命令行 -->
 ``` PowerShell
 # 查看全部服务 :
@@ -261,7 +256,7 @@ net stop <SERVICE_NAME>
 # 启动服务 :
 net start <SERVICE_NAME>
 ```
-{% endtabs %}
+
 
 
 
@@ -273,7 +268,7 @@ net start <SERVICE_NAME>
 典型场景：在应急响应过程中，发现入侵者创建的异常计划任务，应即时禁用或者删除异常计划任务，防止被持续控制。
 
 注意事项：需要联系系统管理员确认计划任务是否合法，防止错误禁用和删除了正常的计划任务。
-{% tabs %}
+
 <!-- tab Powershell 命令行 -->
 ``` PowerShell
 # 查看计划任务 :
@@ -299,7 +294,7 @@ schtasks.exe /End /TN \Microsoft\Windows\NlaSvc\WiFiTask
 # 删除计划任务 :
 schtasks.exe /Delete /F /TN \Microsoft\Windows\NlaSvc\WiFiTask
 ```
-{% endtabs %}
+
 
 
 
@@ -314,7 +309,7 @@ schtasks.exe /Delete /F /TN \Microsoft\Windows\NlaSvc\WiFiTask
 
 注意事项：需要联系系统管理员确认账号是否合法，防止错误禁用和删除了正常的合法账号。
 
-{% tabs %}
+
 <!-- tab Powershell 命令行 -->
 ``` PowerShell
 # 查看账户列表 :
@@ -352,7 +347,7 @@ net user <USERNAME> <PASSWORD> /add
 # CMD 修改账户密码 :
 net user <USERNAME> <PASSWORD>
 ```
-{% endtabs %}
+
 
 ## Windows 应急工具
 
