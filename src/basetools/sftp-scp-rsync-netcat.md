@@ -27,7 +27,7 @@ sftp命令会基于ssh协议对所传输的文件进行加密处理，支持SSH�
 使用示例
 
   登录远程FTP服务器
-  sftp <user-name>@<remote-ftp-server-ip>
+  sftp user-name@remote-ftp-server-ip
   
   上传或下载文件/文件夹。
   
