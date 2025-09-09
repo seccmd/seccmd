@@ -1,7 +1,7 @@
 ---
 date: 2023-09-01
 title: Commando - VM 安装指南
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   本文提供 Commando - VM 的安装教程。首先强调为确保安装顺利，必须禁用 Windows Defender，详细阐述在不同情况下如何禁用篡改保护、实时保护以及微软防病毒，包括通过组策略进行设置及后续重启要求。接着介绍 Commando - VM 的标准安装流程，涵盖创建和配置虚拟机、创建快照、下载安装文件、在 PowerShell 中进行一系列操作以执行安装脚本等步骤。若你正准备安装 Commando - VM，本文能为你提供全面且详细的指导。
 categories: 安全体系

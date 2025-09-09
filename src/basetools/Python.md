@@ -1,7 +1,7 @@
 ---
 date: 2023-08-01
 title: Python 快速安装、虚拟环境创建及打包工具 | 含国内镜像源
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   本页面聚焦 Python 开发实用技巧，涵盖环境安装、虚拟环境管理及打包工具选择。提供自动化脚本实现 Python 静默安装，罗列国内可用第三方镜像源，助您加速包下载。详细阐述创建 Python3 虚拟环境步骤，有效避免项目依赖冲突。同时对比 pyinstaller 与 nuitka 两款打包工具，突出 nuitka 在隐藏源码、文件体积、打包及启动速度上的优势，为您的 Python 开发之路提供全面且实用的指引。
 categories: 基础工具

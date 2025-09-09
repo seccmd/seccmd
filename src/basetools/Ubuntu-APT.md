@@ -1,7 +1,7 @@
 ---
 date: 2023-09-01
 title: Ubuntu APT国内镜像配置指南（20.04 LTS版）
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   介绍Ubuntu系统中APT工具使用国内镜像的方法，主要针对20.04 LTS版本。通过备份并替换系统自带的软件源配置文件 `/etc/apt/sources.list`，使用TUNA软件源镜像，帮助用户提升软件更新和安装速度，为Ubuntu系统的软件管理提供便利。
 categories: 基础工具

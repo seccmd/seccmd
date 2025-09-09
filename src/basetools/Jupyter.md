@@ -1,7 +1,7 @@
 ---
 date: 2024-10-28
 title: Jupyter Notebook环境搭建与使用全攻略
-authors: [SecCMD]
+author: [SecCMD]
 description: >
  本教程围绕Jupyter Notebook展开，从环境初始化开始，详细介绍在Kali或Linux虚拟机上配置Python国内镜像源、安装并运行Jupyter Notebook的步骤，包含远程访问与密码设置等要点。还深入讲解Jupyter Notebook的多种使用技巧，如运行Bash脚本、读取文件、与Shell交互、变量存储、保存会话、列出变量、执行脚本等，以及安装和使用Jupyter Notebook的常规指令，为数据分析与开发人员提供全面的指导。
 categories: 编程开发, 基础工具

@@ -1,7 +1,7 @@
 ---
 date: 2020-01-17
-title: 红蓝对抗网络攻防实战演练
-authors: [SecAdmin]
+title: 15.红蓝对抗网络攻防实战演练
+author: [SecAdmin]
 description: >
   红蓝对抗网络攻防实战演练
 categories: 攻防兼备企业安全实践

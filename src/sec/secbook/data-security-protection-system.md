@@ -1,7 +1,7 @@
 ---
 date: 2020-01-07
-title: 数据安全保护体系
-authors: [SecAdmin]
+title: 06.数据安全保护体系
+author: [SecAdmin]
 description: >
   数据安全保护体系
 categories: 攻防兼备企业安全实践

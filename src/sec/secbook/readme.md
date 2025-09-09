@@ -1,7 +1,7 @@
 ---
 date: 2020-01-01
-title: 《攻防兼备企业安全实践系列》目录
-authors: [SecAdmin]
+title: 攻防兼备企业安全实践系列
+author: SecAdmin
 description: >
   《攻防兼备企业安全实践系列》目录
 categories: 攻防兼备企业安全实践
@@ -23,43 +23,43 @@ categories: 攻防兼备企业安全实践
 
 **【网络安全纵深防御】**
 
--   secbook/defense-in-depth-security-solution 
--   secbook/security-incident-response 
+*   [01. 全链路纵深防御安全方案](defense-in-depth-security-solution)
+*   [02. 网络安全事件应急响应](security-incident-response.md)
 
 **【安全合规及风险管理】**
 
--   secbook/cybersecurity-laws 
--   secbook/information-security-management-system 
--   secbook/information-security-awareness-training 
+-   [03. 网络安全法律法规](cybersecurity-laws)
+-   [04. 信息安全管理体系建设](information-security-management-system)
+-   [05. 企业信息安全意识培训](information-security-awareness-training)
 
 **【数据安全与隐私保护】**
 
--   secbook/data-security-protection-system 
--   secbook/personal-information-protection 
+-   [06. 数据安全保护体系](data-security-protection-system)
+-   [07. 个人信息保护安全防范](personal-information-protection)
 
 **【安全开发生命周期】**
 
--   secbook/devsecops-security-solution 
--   secbook/software-code-vulnerability-automated-repair-technology 
+-   [08. 软件开发安全生命周期DevSecOps方案](devsecops-security-solution)
+-   [09. 软件代码漏洞自动化修复技术](software-code-vulnerability-automated-repair-technology)
 
 **【终端与身份安全】**
 
--   secbook/terminal-and-remote-office-security 
--   secbook/zero-trust-security-architecture 
+-   [10. 终端安全与远程办公](terminal-and-remote-office-security)
+-   [11. 零信任安全架构](zero-trust-security-architecture)
 
 **【云数据中心安全】**
 
--   secbook/cloud-security-framework-and-virtualization-technology 
--   secbook/major-security-risk-assessment-of-cloud-computing-services 
--   secbook/container-security-risks-and-best-practices 
+-   [12. 云安全框架及虚拟化技术](cloud-security-framework-and-virtualization-technology)
+-   [13. 云计算服务重大安全风险评估](major-security-risk-assessment-of-cloud-computing-services)
+-   [14. 企业级容器安全风险与最佳实践](container-security-risks-and-best-practices)
 
 **【安全攻防实战演练】**
 
--   secbook/red-blue-attack-and-defense-practice 
--   secbook/phishing-attack-drill-plan 
--   secbook/white-hat-penetration-behavior-monitoring-solution 
+-   [15. 红蓝对抗网络攻防实战演练](red-blue-attack-and-defense-practice)
+-   [16. 钓鱼攻击演练方案](phishing-attack-drill-plan)
+-   [17. 白帽子渗透行为监控方案](white-hat-penetration-behavior-monitoring-solution)
 
 **【移动与物联网安全】**
 
--   secbook/mobile-and-payment-security 
--   secbook/iot-security-architecture-design-solution 
+-   [18. 移动支付与支付安全 SDL](mobile-and-payment-security)
+-   [19. IoT 物联网安全架构设计方案](iot-security-architecture-design-solution)

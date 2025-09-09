@@ -1,7 +1,7 @@
 ---
 date: 2025-01-01
 title: 系统Debug信息泄露缺陷 - 腾讯安全代码审计实战系列12
-authors: [SecCMD]
+author: [SecCMD]
 description: >
   将未经验证的用户输入写入Debug日志文件可能导致攻击者伪造日志条目或将恶意信息注入日志中。这种攻击方式被称为Log Forging，可能会破坏日志的完整性，掩盖攻击者的行为轨迹，甚至影响日志处理工具的正常功能。
 categories: 安全开发

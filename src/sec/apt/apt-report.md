@@ -1,6 +1,6 @@
 ---
 date: 2020-01-10
-authors: [SecAdmin]
+author: [SecAdmin]
 title: 历年最具影响力的 APT 攻击事件汇总 - 持续更新
 description: >
   历年最具影响力的 APT 攻击事件汇总 - 持续更新

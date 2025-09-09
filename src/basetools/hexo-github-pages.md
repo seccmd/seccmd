@@ -1,7 +1,7 @@
 ---
 date: 2024-01-29
 title: Hexo 静态博客部署到 GitHub Pages 完整指南 | 快速搭建个人博客
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   本指南详细介绍如何使用 Hexo 静态博客框架部署到 GitHub Pages，快速搭建个人博客。涵盖 Hexo 安装、主题配置、文章发布及自动化部署流程。通过 GitHub Actions 实现持续集成，轻松将博客更新推送到 GitHub Pages。适合开发者、技术爱好者快速搭建高效、美观的个人博客站点。
 categories: 基础工具

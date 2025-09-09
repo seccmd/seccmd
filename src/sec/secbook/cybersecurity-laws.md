@@ -1,7 +1,7 @@
 ---
 date: 2020-01-06
-title: 网络安全法律法规
-authors: [SecAdmin]
+title: 03.网络安全法律法规
+author: SecAdmin
 description: >
   网络安全 法律法规方面企业的安全责任与惩罚
 categories: 攻防兼备企业安全实践

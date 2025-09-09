@@ -1,7 +1,7 @@
 ---
 date: 2020-01-04
-title: 云安全框架及虚拟化技术
-authors: [SecAdmin]
+title: 12.云安全框架及虚拟化技术
+author: [SecAdmin]
 description: >
   云安全框架及虚拟化技术
 categories: 攻防兼备企业安全实践

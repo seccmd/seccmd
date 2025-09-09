@@ -1,7 +1,7 @@
 ---
 date: 2024-12-06
 title: Python 远程、内存加载 httpimport
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   Python因其简洁易用而闻名，但有时也会让人感觉缺少一些高级特性。其中一个就是便捷地从远程加载模块。而`httpimport`库，正是填补了这一空白，它允许你直接从HTTP/S地址导入Python包和模块，无需本地安装，彻底改变你的模块加载方式！本文将详细介绍`httpimport`的功能、用法及安全注意事项。
 categories: 攻防兼备

@@ -1,7 +1,7 @@
 ---
 date: 2023-07-01
 title: HCmd
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   本页面聚焦于多种远HCmd管理方案
 categories: 安全工具

@@ -1,7 +1,7 @@
 ---
 date: 2023-05-08
 title: GitHub最受欢迎100+开源安全项目
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   GitHub最受欢迎100开源安全项目
 categories: 网络攻防

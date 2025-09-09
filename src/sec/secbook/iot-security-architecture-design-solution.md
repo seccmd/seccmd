@@ -1,7 +1,7 @@
 ---
 date: 2020-01-12
-title: IoT 物联网安全架构设计方案
-authors: [SecAdmin]
+title: 19.IoT 物联网安全架构设计方案
+author: [SecAdmin]
 description: >
   IoT 物联网安全架构设计方案
 categories: 攻防兼备企业安全实践

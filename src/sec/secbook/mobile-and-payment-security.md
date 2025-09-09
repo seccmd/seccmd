@@ -1,7 +1,7 @@
 ---
 date: 2020-01-14
-title: 移动支付与支付安全 SDL
-authors: [SecAdmin]
+title: 18.移动支付与支付安全 SDL
+author: [SecAdmin]
 description: >
   移动支付与支付安全 SDL
 categories: 攻防兼备企业安全实践

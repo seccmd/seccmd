@@ -1,7 +1,7 @@
 ---
 date: 2024-06-01
 title: 勒索病毒-快速应对手册
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   勒索病毒-快速应对手册 - 常见传播的勒索病毒，表明勒索病毒正在呈现多样化以及变种迅速地态势发展
 categories: 安全体系

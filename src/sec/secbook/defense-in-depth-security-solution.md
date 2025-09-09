@@ -1,7 +1,7 @@
 ---
 date: 2020-01-08
-title: 全链路纵深防御安全方案
-authors: [SecAdmin]
+title: 01.全链路纵深防御安全方案
+author: [SecAdmin]
 description: >
   全链路纵深防御安全方案，攻防兼备企业安全实践
 categories: 攻防兼备企业安全实践

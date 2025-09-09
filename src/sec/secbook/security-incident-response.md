@@ -1,7 +1,7 @@
 ---
 date: 2020-01-02
-title: 网络安全事件应急响应
-authors: [SecAdmin]
+title: 02.网络安全事件应急响应
+author: [SecAdmin]
 description: >
   网络安全事件应急响应
 categories: 攻防兼备企业安全实践

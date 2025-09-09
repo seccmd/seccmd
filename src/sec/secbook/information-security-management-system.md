@@ -1,7 +1,7 @@
 ---
 date: 2020-01-11
-title: 信息安全管理体系建设
-authors: [SecAdmin]
+title: 04.信息安全管理体系建设
+author: SecAdmin
 description: >
   信息安全管理体系建设
 categories: 攻防兼备企业安全实践

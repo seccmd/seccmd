@@ -1,7 +1,7 @@
 ---
 date: 2022-04-03
 title: 一键Windows应急响应检测脚本
-authors: [SecAdmin]
+author: [SecAdmin]
 description: >
   一键Windows应急响应检测脚本
 categories: 安全工具
