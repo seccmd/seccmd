@@ -1,7 +1,7 @@
 ---
 date: 2024-01-01
 title: 编程环境一键安装指南 | Windows与Linux全平台覆盖
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   本页面专注于编程环境的自动化安装，提供Windows和Linux系统下Java、Python、Golang、NodeJS等多种编程语言环境的一键安装CMD及BASH命令，同时介绍了Windows下SSH和Chocolatey的安装方法，以及nodejs打包成exe的方案，还包含各编程语言使用国内镜像源安装第三方包的设置方法，为开发者快速搭建编程环境提供全面且实用的指引。
 categories: 基础工具

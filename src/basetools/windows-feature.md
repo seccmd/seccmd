@@ -1,7 +1,7 @@
 ---
 date: 2020-01-03
 title: Windows 官方优质资源
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   Windows 官方优质资源
 categories: 基础工具

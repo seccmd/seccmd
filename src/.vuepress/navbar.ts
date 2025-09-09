@@ -2,13 +2,19 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/basetools/",
   {
-    text: "安全博客",
+    text: "明剑博客",
     icon: "lightbulb",
     prefix: "/sec/",
     link: "/sec/",
   },
+  "/basetools/",
+  {
+    text: "ATT&CK 中文版",
+    icon: "book",
+    link: "https://www.seccmd.net/Attack_CN/",
+  },
+/*
   {
     text: "指南",
     icon: "lightbulb",
@@ -36,5 +42,5 @@ export default navbar([
       },
     ],
   },
-
+*/
 ]);

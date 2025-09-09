@@ -1,7 +1,7 @@
 ---
 date: 2022-09-11
 title: 永久修改 DNS 配置
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   永久修改 DNS 配置
 categories: 基础工具

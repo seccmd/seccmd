@@ -1,7 +1,7 @@
 ---
 date: 2020-01-09
 title: 08.软件开发安全生命周期DevSecOps方案
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   软件开发安全生命周期DevSecOps安全方案
 categories: 攻防兼备企业安全实践

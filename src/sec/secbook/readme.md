@@ -1,7 +1,7 @@
 ---
 date: 2020-01-01
 title: 攻防兼备企业安全实践系列
-author: SecAdmin
+author: SecCMD
 description: >
   《攻防兼备企业安全实践系列》目录
 categories: 攻防兼备企业安全实践

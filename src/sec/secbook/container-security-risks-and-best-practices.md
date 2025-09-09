@@ -1,7 +1,7 @@
 ---
 date: 2020-01-05
 title: 14.容器安全风险与最佳实践
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   企业级容器安全风险与最佳实践
 categories: 攻防兼备企业安全实践

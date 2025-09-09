@@ -1,7 +1,7 @@
 ---
 date: 2020-01-15
 title: 07.个人信息保护安全防范
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   个人信息保护安全防范
 categories: 攻防兼备企业安全实践

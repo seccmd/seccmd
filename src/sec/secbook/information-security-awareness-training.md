@@ -1,7 +1,7 @@
 ---
 date: 2020-01-10
 title: 05.企业信息安全意识培训
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   企业信息安全意识培训
 categories: 攻防兼备企业安全实践

@@ -1,7 +1,7 @@
 ---
 date: 2023-03-09
 title: 寻找适合自己的博客笔记系统
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   搭建自己个人博客，尝试多个博客系统，我想在博客中表达的内容类型比较多，总是不能完全满足需求，最后选择这个组合Hexo-Stellar是我最喜欢的，基本不用修改太多配置，阅读使用注意力很集中。安装过程记录一下，便于快速部署。
 categories: 程序编程

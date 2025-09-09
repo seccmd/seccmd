@@ -1,7 +1,7 @@
 ---
 date: 2020-01-13
 title: 13.云服务重大安全风险评估
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   云计算服务重大安全风险评估
 categories: 攻防兼备企业安全实践

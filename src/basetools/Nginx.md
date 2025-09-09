@@ -1,7 +1,7 @@
 ---
 date: 2023-09-01
 title: Nginx安装配置全攻略
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   本页面专注于Nginx服务器的安装与配置技巧，涵盖从基础安装到多种高级应用场景。介绍Nginx安装指令，以及如何测试配置文件确保其正确性。深入讲解Basic Auth认证设置、Http Proxy代理配置、云主机TCP端口转发等操作，还详细阐述NGINX location在配置中的优先级，为您提供全面且实用的Nginx使用指引。
 categories: 基础工具

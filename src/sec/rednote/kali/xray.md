@@ -1,7 +1,7 @@
 ---
 date: 2021-01-03
 title: xray 代理模式进行漏洞扫描
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   xray 代理模式进行漏洞扫描
 categories: 安全工具

@@ -1,7 +1,7 @@
 ---
 date: 2023-07-08
 title: FastIR Collector - Windows 事件响应工具
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   FastIR Collector是一个Windows下的信息收集工具，该工具收集实时 Windows 上的信息包括：内存，注册表，文件信息等并将结果记录在 csv 文件中。通过对这些信息的分析，可以及时发现入侵痕迹。
 categories: 网络攻防

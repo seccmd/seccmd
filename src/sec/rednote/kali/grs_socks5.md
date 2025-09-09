@@ -1,7 +1,7 @@
 ---
 date: 2025-01-29
 title: grs 反向 SOCKS5 代理工具使用指南 | 基于 REALITY 协议的内网穿透
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   本指南详细介绍 grs 反向 SOCKS5 代理工具的使用方法，基于 REALITY 协议实现内网穿透。涵盖服务端、客户端和用户端的配置与启动步骤，提供生成配置的命令详解。通过 REALITY 协议隐藏流量特征，防止服务端被主动探测，提升安全性。适用于内网穿透、隐私保护和科学上网等场景，为开发者提供高效、安全的代理解决方案。
 categories: 网络工具

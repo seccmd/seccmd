@@ -1,7 +1,7 @@
 ---
 date: 2020-01-18
 title: 10.终端安全与远程办公
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   终端安全与远程办公
 categories: 攻防兼备企业安全实践

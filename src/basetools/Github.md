@@ -1,7 +1,7 @@
 ---
 date: 2024-05-01
 title: Github使用全攻略：快速安装、认证方案与仓库操作指南
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   本页面聚焦Github的使用技巧，涵盖快速安装流程，包括申请API Token、下载代码仓库及执行脚本、上传数据等操作。同时详细介绍SSH-Key和Token两种认证方案，以及创建仓库、下载仓库和提交修改的具体步骤，助力用户高效使用Github进行项目管理与协作。
 categories: 基础工具

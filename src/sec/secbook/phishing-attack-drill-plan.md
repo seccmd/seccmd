@@ -1,7 +1,7 @@
 ---
 date: 2020-01-16
 title: 16.钓鱼攻击演练方案
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   钓鱼攻击演练方案
 categories: 攻防兼备企业安全实践

@@ -1,7 +1,7 @@
 ---
 date: 2021-09-01
 title: 全面解析 27 种 WebShell 反弹技术
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   本文详细介绍了多达 27 种 WebShell 反弹技术，涵盖 Bash、Netcat、Python、Java 等多种编程语言实现的反弹方法，还包括利用系统工具、漏洞、计划任务等特殊途径进行反弹的操作。同时，为深入探索相关知识，提供了 aspx、ascx、ashx、asmx 等文件的技术研究链接。无论是网络安全从业者提升渗透测试技能，还是技术爱好者深入了解 WebShell 原理，本文都能提供丰富且实用的内容。
 categories: 攻防兼备

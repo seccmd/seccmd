@@ -1,7 +1,7 @@
 ---
 date: 2020-01-20
 title: 11.零信任安全架构
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   零信任安全架构
 categories: 攻防兼备企业安全实践

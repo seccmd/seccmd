@@ -1,7 +1,7 @@
 ---
 date: 2020-01-06
 title: 03.网络安全法律法规
-author: SecAdmin
+author: SecCMD
 description: >
   网络安全 法律法规方面企业的安全责任与惩罚
 categories: 攻防兼备企业安全实践

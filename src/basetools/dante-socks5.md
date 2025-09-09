@@ -1,7 +1,7 @@
 ---
 date: 2022-09-01
 title: 一键安装Dante建立socks5代理
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   一键安装Dante建立socks5代理
 categories: 基础工具

@@ -1,7 +1,7 @@
 ---
 date: 2022-09-02
 title: Jupyter Lab 作为 systemd 服务运行
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   如何将 Jupyter Lab 作为 systemd 服务运行
 categories: 基础工具

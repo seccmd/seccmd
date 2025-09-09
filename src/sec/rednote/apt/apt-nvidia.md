@@ -1,6 +1,6 @@
 ---
 date: 2022-02-23
-author: [SecAdmin]
+author: [SecCMD]
 title: 英伟达泄露 NVIDIA GPU 驱动程序代码和固件
 description: >
   NVIDIA 公司遭到黑客攻击，攻击者设法从该公司窃取了大约 1 TB 的敏感数据。这包括各种文件，如 GPU 驱动程序和 GPU 固件源代码以及一些更有趣的东西。

@@ -1,7 +1,7 @@
 ---
 date: 2022-09-03
 title: Minio快速安装记录
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   快速安装 Minio
 categories: 基础工具

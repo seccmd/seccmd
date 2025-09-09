@@ -1,7 +1,7 @@
 ---
 date: 2025-01-21
 title: MkDocs 配置谷歌统计和谷歌广告
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   MkDocs 如何配置 Google Analytics & Google AdSense
 categories: 基础工具

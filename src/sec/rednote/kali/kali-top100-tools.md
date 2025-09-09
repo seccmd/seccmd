@@ -1,7 +1,7 @@
 ---
 date: 2023-05-08
 title: 黑客的秘密武器100+顶级渗透神器汇总
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   黑客的秘密武器100顶级渗透神器汇总
 categories: 网络攻防

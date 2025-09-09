@@ -1,7 +1,7 @@
 ---
 date: 2022-06-01
 title: LDAP AD 是什么？价值作用？操作使用？应用场景？
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   LDAP AD 是什么？价值作用？操作使用？应用场景？
 categories: 基础协议

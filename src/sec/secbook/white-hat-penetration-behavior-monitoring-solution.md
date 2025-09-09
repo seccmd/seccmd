@@ -1,7 +1,7 @@
 ---
 date: 2020-01-19
 title: 17.白帽子渗透行为监控方案
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   白帽子渗透行为监控方案
 categories: 攻防兼备企业安全实践

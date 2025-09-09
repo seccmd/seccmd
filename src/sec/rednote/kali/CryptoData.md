@@ -1,7 +1,7 @@
 ---
 date: 2023-09-15
 title: CryptoData 浏览器内容加密
-author: [SecAdmin]
+author: [SecCMD]
 description: >
   在Web浏览器中选择纯文本或加密文本，CryptoData 浏览器内容加密
 categories: 攻防兼备
