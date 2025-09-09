@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-title: SSRF服务端请求伪造缺陷 - 腾讯安全代码审计实战系列04
+title: 04-SSRF服务端请求伪造缺陷
 author: [SecCMD]
 description: >
   SSRF（Server-Side Request Forgery）服务端请求伪造是一种由攻击者构造形成由服务端发起请求的一个安全漏洞。 一般情况下，SSRF攻击的目标是从外网无法访问的内部系统。正是因为它是由服务端发起的，所以它能够请求到与它相连而与外网隔离的内部系统。

@@ -33,7 +33,7 @@ export default sidebar({
   ],
   "/sec/": [
     {
-      text: "SecBook",
+      text: "明剑博客",
       icon: "shield",
       link: "/sec/",
       children: "structure",

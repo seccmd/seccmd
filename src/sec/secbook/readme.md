@@ -42,7 +42,7 @@ categories: 攻防兼备企业安全实践
 -   [08. 软件开发安全生命周期DevSecOps方案](devsecops-security-solution)
 -   [09. 软件代码漏洞自动化修复技术](software-code-vulnerability-automated-repair-technology)
 
-**【终端与身份安全】**
+**【终端与零信任安全】**
 
 -   [10. 终端安全与远程办公](terminal-and-remote-office-security)
 -   [11. 零信任安全架构](zero-trust-security-architecture)
@@ -63,3 +63,7 @@ categories: 攻防兼备企业安全实践
 
 -   [18. 移动支付与支付安全 SDL](mobile-and-payment-security)
 -   [19. IoT 物联网安全架构设计方案](iot-security-architecture-design-solution)
+
+**【身份安全】**
+
+-   [20. 身份优先安全风险知识库](idsec)

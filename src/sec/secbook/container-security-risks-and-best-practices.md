@@ -1,6 +1,6 @@
 ---
 date: 2020-01-05
-title: 14.企业容器安全风险与最佳实践
+title: 14.容器安全风险与最佳实践
 author: [SecAdmin]
 description: >
   企业级容器安全风险与最佳实践

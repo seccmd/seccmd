@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-title: HTTP Cookies 篡改缺陷 - 腾讯安全代码审计实战系列10
+title: 10-HTTP Cookies 篡改缺陷
 author: [SecCMD]
 description: >
   应用程序将未经验证的输入数据置于 HTTP 响应的 Cookie 中，可以导致多种安全攻击，例如跨站请求伪造 (CSRF)、HTTP 响应拆分、跨站脚本攻击 (XSS) 和页面劫持。这些攻击利用应用程序未能验证输入数据的漏洞，将恶意内容注入响应头中，并可能危害用户的敏感信息和应用的完整性。
