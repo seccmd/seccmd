@@ -5,7 +5,7 @@
 ## 推荐阅读 
 
 - [ATT&CK 中文版👉](https://www.seccmd.net/Attack_CN/) ：《ATT&CK 中文版》 为了方便中文读者使用和理解，使读者更容易掌握和运用框架中的知识！
-- [攻防兼备企业安全实践系列📗](/sec/secbook/) : 笔者计划将十多年的大型企业安全建设实践经验，总结输出一系列文章《攻防兼备的企业安全实践》！
+- [攻防兼备企业安全实践系列📗](/sec/secbook/) : 笔者计划将十多年的大型企业安全建设实践经验，总结系列文章《攻防兼备的企业安全实践》！
 - [XDR-SOP-SKILL](https://github.com/seccmd/xdr-sop-skill)：针对供应链投毒攻击 AI Skill，首个AI标准化应急技能！
 
 ## ATT&CK 中文版
