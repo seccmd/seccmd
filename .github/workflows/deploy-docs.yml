@@ -33,9 +33,7 @@ jobs:
       - name: 安装依赖
         run: |
           corepack enable
-          # 允许指定的依赖运行构建脚本（解决 pnpm v10 的安全拦截）
-          pnpm config set allowed-build-from "@parcel/watcher,esbuild"
-          pnpm install --frozen-lockfile
+          pnpm install --frozen-lockfile --only-built-dependencies=@parcel/watcher,esbuild
 
       - name: 构建文档
         env:
